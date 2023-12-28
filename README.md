@@ -1,6 +1,6 @@
 - 👋 Hi, I’m yateen
 - 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning many tools and technologys to figure out which one i am comfortable with.
+- 🌱 I’m currently learning many tools and technologies.
 - 💞️ I’m looking for Jobs in computer science industry.
 - 📫 How to reach me : myateendra97@gmail.com
 
